@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lhzaccarelli/npm-crash-2017/issues"
   },
-  "homepage": "https://github.com/lhzaccarelli/npm-crash-2017#readme"
+  "homepage": "https://github.com/lhzaccarelli/npm-crash-2017#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

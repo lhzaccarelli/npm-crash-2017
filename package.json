@@ -4,7 +4,8 @@
   "description": "Traversy Media's NPM Crash Course 2017",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "live-server"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "live-server": "^1.2.1"
   }
 }
